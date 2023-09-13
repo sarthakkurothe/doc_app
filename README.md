@@ -9,6 +9,10 @@ I have created an application that is designed to assist patients at a dental cl
 This feature provides patients with the flexibility to manage their appointments without having to contact the clinic. 
 Overall, the application is designed to make it easy for patients to schedule and manage their dental appointments, providing convenience and a better user experience.
 
+1. Fork this repository https://github.com/sarthakkurothe/doc_app
+2. Change the directory to run frontend of the project npm start
+3. Change the directory to run backend of the project cd server
+4. npm run
 
 
 
